@@ -3,7 +3,7 @@ name: Step 6 # Last step of the exercise
 on:
   issue_comment:
     types:
-      - edited
+      - created
 
 permissions:
   contents: write
